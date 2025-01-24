@@ -57,6 +57,12 @@ O sistema de quiz deve permitir que usuários realizem as seguintes ações:
 - O sistema deve ser responsivo, com design simples e intuitivo.
 - O candidato pode escolher a ferramenta de banco de dados mais adequada (relacional ou não-relacional).
 - O código deve ser organizado, com boa estrutura de pastas e boas práticas.
+- O backend deve ser funcional, lidando com erros de forma clara e retornando mensagens apropriadas ao usuário.
+- A documentação do projeto deve incluir:
+    - Descrição das funcionalidades principais.
+    - Tecnologias e bibliotecas utilizadas.
+    - Passos para rodar o sistema localmente (frontend e backend).
+    - Estrutura definida para o banco de dados.
 
 ---
 
