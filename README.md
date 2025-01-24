@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta os requisitos para o desenvolvimento de um sistema de quiz sobre programação utilizando tecnologias fullstack. O projeto será composto por um frontend desenvolvido em React, um backend em Node.js e um banco de dados à escolha do candidato (ex.: MongoDB, PostgreSQL ou outro). O prazo de entrega do projeto é de **5 dias**, e o objetivo é avaliar as habilidades do candidato no desenvolvimento de uma aplicação completa, com foco na simplicidade e funcionalidade.
+Este documento apresenta os requisitos para o desenvolvimento de um sistema de quiz sobre programação utilizando tecnologias fullstack. O projeto será composto por um frontend desenvolvido em *React*, um backend em *Node.js* e um banco de dados à escolha do candidato. O prazo de entrega do projeto é de **5 dias**, e o objetivo é avaliar as habilidades do candidato no desenvolvimento de uma aplicação completa, com foco na simplicidade e funcionalidade.
 
 ---
 
@@ -22,7 +22,7 @@ O sistema de quiz deve permitir que usuários realizem as seguintes ações:
 - O sistema deve disponibilizar perguntas com as seguintes características:
   - Pergunta (texto).
   - Quatro alternativas de resposta.
-  - Indicação de qual alternativa é correta (no backend).
+  - Indicação de qual alternativa é correta, após interação do usuário.
 - As perguntas podem ser cadastradas diretamente no banco de dados (não é necessário implementar CRUD de perguntas).
 - O quiz deve ser composto por no mínimo 5 perguntas.
 
@@ -36,7 +36,7 @@ O sistema de quiz deve permitir que usuários realizem as seguintes ações:
 
 ### 3. Backend
 
-- O backend deve ser implementado em Node.js e Express.
+- O backend deve ser implementado em Node.js.
 - Deve expor uma API RESTful com as seguintes rotas:
   - **/quiz**:
     - **GET**: Obter perguntas do quiz.
@@ -65,7 +65,9 @@ O sistema de quiz deve permitir que usuários realizem as seguintes ações:
 1. **Funcionalidades Implementadas**: Avaliação das funcionalidades entregues de acordo com os requisitos.
 2. **Qualidade do Código**: Organização, boas práticas, e legibilidade.
 3. **Design e Usabilidade**: Aparência da interface e experiência do usuário.
+4. **Criatividade: Qualquer** funcionalidade ou melhoria adicional, como animações, gráficos ou design diferenciado, será considerada um diferencial.
+5. **Banco de Dados**: Qualidade da estrutura de dados, uso eficiente de consultas e organização geral do banco de dados.
 
 ---
 
-Boa sorte no desenvolvimento do projeto! Qualquer dúvida, entre em contato com o responsável pelo teste.
+Boa sorte no desenvolvimento do projeto!
