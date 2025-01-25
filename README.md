@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta os requisitos para o desenvolvimento de um sistema de quiz sobre programação utilizando tecnologias fullstack. O projeto será composto por um frontend desenvolvido em *React*, um backend em *Node.js* e um banco de dados à escolha do candidato. O prazo de entrega do projeto é de **5 dias**, e o objetivo é avaliar as habilidades do candidato no desenvolvimento de uma aplicação completa, com foco na simplicidade e funcionalidade.
+Este documento apresenta os requisitos para o desenvolvimento de um sistema de quiz sobre programação utilizando tecnologias fullstack. O projeto será composto por um frontend desenvolvido em *React*, um backend em *Node.js* e um banco de dados à escolha do candidato. O prazo de entrega do projeto é de **3 dias** até segunda-feira 27/01 às 23:59, e o objetivo é avaliar as habilidades do candidato no desenvolvimento de uma aplicação completa, com foco na simplicidade e funcionalidade.
 
 ---
 
